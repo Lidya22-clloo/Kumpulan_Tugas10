@@ -1,0 +1,47 @@
+*{
+    padding: 0;
+    box-sizing: border-box
+}
+body{
+    background-color: #121212;
+}
+.title{
+    font-size: 33px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+color: aliceblue;
+}
+#sub-title{
+    font-size: small;
+    color: aqua;
+}
+.deskripsi{
+    font-size: 18px;
+    color: azure;
+    letter-spacing: 2px;
+}
+.highlight-red{
+    color: rgb(255, 0, 0);
+}
+.merah{
+    color: rgb(255, 0, 0);
+}
+#kata{
+    font-size: 17px;
+    color: rgba(240, 246, 255, 0.377);
+    box-sizing: border-box;
+    letter-spacing: 2px;
+}
+#proyek{
+    font-size: 18px;
+    color: aliceblue;
+    letter-spacing: 2px;
+}
+.keahlian{
+    font-size: 24px;
+    color: aliceblue;
+}
+.konsep{
+    font-size: 18px;
+    letter-spacing: 2px;
+    color: aliceblue;
+}
